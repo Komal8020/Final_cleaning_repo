@@ -251,7 +251,8 @@ const ServicesSection = ({ setShowServices }) => {
       </div>
     </motion.section>
   );
-};// Service Filter Bar
+};
+
 // Service Filter Bar
 const ServiceFilterBar = ({ setShowServices }) => {
     const [search, setSearch] = useState("");
@@ -318,7 +319,7 @@ const ServiceFilterBar = ({ setShowServices }) => {
                     City2 in haryana
                 </option>
             </select>
-<div className="relative w-full max-w-sm">
+            <div className="relative w-full max-w-sm">
       {/* Styled Container */}
       <div className="bg-[#2c2d34] text-white px-4 py-2 rounded-lg flex items-center gap-2 w-full">
         {/* Calendar Icon */}

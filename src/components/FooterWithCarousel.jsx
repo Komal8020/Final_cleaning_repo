@@ -10,10 +10,21 @@ const cities = [
 const FooterWithCarousel = () => {
   return (
     <>
-    <div className="bg-[#15171f] text-gray-300 font-[Inter] px-8 sm:px-12 lg:px-16 py-20 sm:py-24 lg:py-28 min-h-[400px] rounded-3xl mx-4 mb-8 shadow-md">
+      {/* 🔼 Moved carousel section to the top */}
+      <div className="brand-carousel-wrapper">
+        <div className="brand-carousel">
+          {[...cities, ...cities].map((city, index) => (
+            <span key={index} className="carousel-item">{city}</span>
+          ))}
+        </div>
+      </div>
+
+      {/* 🔽 Main Footer Section */}
+      <div className="bg-[#15171f] text-gray-300 font-[Inter] px-8 sm:px-12 lg:px-16 py-20 sm:py-24 lg:py-28 min-h-[400px] rounded-3xl mx-4 mb-2 shadow-md">
         <div className="container mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 md:gap-12">
             
+            {/* Company Info */}
             <div className="flex flex-col space-y-4">
               <div className="flex items-center space-x-2">
                 <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center">
@@ -25,6 +36,7 @@ const FooterWithCarousel = () => {
                 reliable repairs and professional plumbing. Quick, affordable, and trusted by thousands.</p>
             </div>
 
+            {/* Pages */}
             <div className="flex flex-col space-y-2">
               <h4 className="text-lg font-semibold text-white mb-2">Pages</h4>
               <ul className="space-y-1">
@@ -36,6 +48,7 @@ const FooterWithCarousel = () => {
               </ul>
             </div>
 
+            {/* Social Media */}
             <div className="flex flex-col space-y-2">
               <h4 className="text-lg font-semibold text-white mb-2">Social Media</h4>
               <ul className="space-y-3">
@@ -66,6 +79,7 @@ const FooterWithCarousel = () => {
               </ul>
             </div>
 
+            {/* Contact */}
             <div className="flex flex-col space-y-2">
               <h4 className="text-lg font-semibold text-white mb-2">Contact</h4>
               <p>Email: <a href="mailto:info@urbancompany.com" className="hover:text-white transition-colors duration-200">info@uberhome.com</a></p>
@@ -75,14 +89,7 @@ const FooterWithCarousel = () => {
         </div>
       </div>
 
-      <div className="brand-carousel-wrapper">
-        <div className="brand-carousel">
-          {[...cities, ...cities].map((city, index) => (
-            <span key={index} className="carousel-item">{city}</span>
-          ))}
-        </div>
-      </div>
-
+      {/* Bottom Bar */}
       <div className="footer-bottom-bar">
         <p>©Cleaning Website - All rights reserved</p>
         <p>
