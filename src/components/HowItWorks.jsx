@@ -16,8 +16,7 @@
 // };
 
 // export default HowItWorks;
-
-import React from "react";
+import React, { useEffect, useRef } from "react";
 
 const steps = [
   {
@@ -31,7 +30,7 @@ const steps = [
         fill="none"
         viewBox="0 0 24 24"
         strokeWidth={2}
-        stroke="#2563EB"
+        stroke="#f87559"
       >
         <path
           strokeLinecap="round"
@@ -99,11 +98,7 @@ const steps = [
         strokeWidth={2}
         stroke="#0f172a"
       >
-        <path
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          d="M5 13l4 4L19 7"
-        />
+        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
       </svg>
     ),
     active: false,
@@ -111,17 +106,38 @@ const steps = [
 ];
 
 const HowItWorks = () => {
+  const imageRef = useRef(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("opacity-100", "translate-y-0");
+          entry.target.classList.remove("opacity-0", "translate-y-10");
+        }
+      },
+      { threshold: 0.3 }
+    );
+
+    if (imageRef.current) observer.observe(imageRef.current);
+
+    return () => {
+      if (imageRef.current) observer.unobserve(imageRef.current);
+    };
+  }, []);
+
   return (
     <section className="py-16 px-6 md:px-20 bg-white">
-        <div className="bg-[#e6f1fb] text-[#2e6ef7] text-sm font-semibold px-4 py-1 mb-5 rounded-full w-fit mx-auto">
-            HOW IT WORKS
-        </div>
-          <h2 className="text-3xl sm:text-4xl font-bold leading-tight text-[#0f172a] w-fit mx-auto">
-            How We Can Help
-          </h2>
-          <p className="text-gray-600 mt-2 max-w-md w-fit mx-auto">
-            Simple, seamless, and stress-free cleaning in 4 easy steps.
-          </p>
+      <div className="bg-gray-300 text-[#f87559] text-sm font-semibold px-4 py-1 mb-5 rounded-full w-fit mx-auto">
+        HOW IT WORKS
+      </div>
+      <h2 className="text-3xl sm:text-4xl font-bold leading-tight text-[#0f172a] w-fit mx-auto">
+        How We Can Help
+      </h2>
+      <p className="text-gray-600 mt-2 max-w-md w-fit mx-auto">
+        Simple, seamless, and stress-free cleaning in 4 easy steps.
+      </p>
+
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-12 items-center">
         <div className="flex-1">
           <div className="mt-10 flex">
@@ -132,14 +148,14 @@ const HowItWorks = () => {
                   <div className="flex flex-col items-center">
                     <div
                       className={`w-1 h-full absolute left-0 ${
-                        step.active ? "bg-[#2563EB]" : ""
+                        step.active ? "bg-[#f87559]" : ""
                       } rounded-full`}
                       style={{ top: 0, bottom: 0 }}
                     />
                     <div
                       className={`z-10 flex items-center justify-center rounded-full border-2 ${
                         step.active
-                          ? "border-[#2563EB] bg-white"
+                          ? "border-[#f87559] bg-white"
                           : "border-gray-300 bg-white"
                       } w-8 h-8`}
                     >
@@ -147,11 +163,7 @@ const HowItWorks = () => {
                     </div>
                   </div>
                   <div className="ml-8">
-                    <h3
-                      className={`text-lg font-semibold flex items-center gap-2 ${
-                        step.active ? "text-[#0f172a]" : "text-[#0f172a]"
-                      }`}
-                    >
+                    <h3 className="text-lg font-semibold text-[#0f172a]">
                       {step.title}
                     </h3>
                     <p className="text-sm text-gray-600 mt-1 max-w-sm">
@@ -165,11 +177,14 @@ const HowItWorks = () => {
         </div>
 
         <div className="flex-1">
-          <div className="rounded-xl overflow-hidden shadow-lg">
+          <div
+            ref={imageRef}
+            className="rounded-xl overflow-hidden shadow-lg opacity-0 translate-y-10 transition-all duration-700"
+          >
             <img
-              src="/images/cleaner-smiling.jpg" 
+              src="/img01.jpg"
               alt="Cleaner helping"
-              className="w-full h-auto object-cover"
+              className="w-full h-64 md:h-110 lg:h-96 object-cover"
             />
           </div>
         </div>

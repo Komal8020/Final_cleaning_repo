@@ -11,7 +11,7 @@ const reasons = [
         fill="none"
         viewBox="0 0 24 24"
         strokeWidth={2}
-        stroke="#2563EB"
+        stroke="#f87559"
       >
         <path
           strokeLinecap="round"
@@ -31,7 +31,7 @@ const reasons = [
         fill="none"
         viewBox="0 0 24 24"
         strokeWidth={2}
-        stroke="#2563EB"
+        stroke="#f87559"
       >
         <path
           strokeLinecap="round"
@@ -51,7 +51,7 @@ const reasons = [
         fill="none"
         viewBox="0 0 24 24"
         strokeWidth={2}
-        stroke="#2563EB"
+        stroke="#f87559"
       >
         <path
           strokeLinecap="round"
@@ -71,7 +71,7 @@ const reasons = [
         fill="none"
         viewBox="0 0 24 24"
         strokeWidth={2}
-        stroke="#2563EB"
+        stroke="#f87559"
       >
         <path
           strokeLinecap="round"
@@ -82,43 +82,41 @@ const reasons = [
     ),
   },
 ];
-
 const WhyChoose = () => {
   return (
-    <section classname="bg-white">
-      <section className="bg-[#eaf3fc] rounded-2xl p-8 md:p-12 mx-4 md:mx-8 my-10">
-        <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-12">
-          {/* Left Text */}
+    <section className="bg-[#15171f] py-8 px-2 md:px-6 rounded-[32px]">
+      <div className="bg-[#15171f] bg-opacity-95 rounded-[32px] p-6 md:p-10 max-w-[90rem] min-h-[40vh] mx-auto">
+        <div className="flex flex-col lg:flex-row gap-12 h-full">
           <div className="flex-1 flex flex-col justify-center">
-            <div className="inline-block bg-white/60 text-[#2563EB] text-xs font-semibold px-4 py-1 rounded-full mb-3 shadow">
+            <div className="inline-block bg-[#1e202a05] text-[#f87559] text-xs font-semibold px-4 py-1 rounded-full mb-3 shadow">
               WHY CHOOSE US
             </div>
-            <h2 className="text-3xl sm:text-4xl font-bold leading-tight text-[#0f172a]">
+            <h2 className="text-3xl sm:text-4xl font-bold leading-tight text-white">
               Why Qlinest Is The Right <br /> Choice For Quality
             </h2>
-            <p className="text-gray-700 mt-2 max-w-md">
+            <p className="text-gray-300 mt-2 max-w-md">
               Discover a range of services designed to bring comfort.
             </p>
           </div>
 
-          {/* Right Grid */}
           <div className="flex-1 grid grid-cols-1 sm:grid-cols-2 gap-8">
             {reasons.map((r) => (
               <div key={r.title} className="flex gap-4 items-start">
                 <div className="flex-shrink-0">{r.icon}</div>
                 <div>
-                  <h3 className="text-base font-semibold text-[#0f172a]">
+                  <h3 className="text-base font-semibold text-white">
                     {r.title}
                   </h3>
-                  <p className="text-sm text-gray-600 mt-1">{r.subtitle}</p>
+                  <p className="text-sm text-gray-400 mt-1">{r.subtitle}</p>
                 </div>
               </div>
             ))}
           </div>
         </div>
-      </section>
+      </div>
     </section>
   );
 };
+
 
 export default WhyChoose;

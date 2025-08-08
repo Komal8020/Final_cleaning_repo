@@ -1,30 +1,17 @@
-import React from "react";
-import "./App.css";
-import HeroSection from "./components/HeroSection";
-import FeatureHighlights from "./components/FeatureHighlights";
-import Services from "./components/Services";
-import StatsIcons from "./components/StatsIcon";
-import WhyChooseUs from "./components/WhyChooseUs";
-import HowItWorks from "./components/HowItWorks";
-import Testimonials from "./components/Testimonials";
-import PromotionSection from "./components/PromotionSection";
-import FAQSection from "./components/FAQSection";
-import BlogAndFooter from "./components/BlogAndFooter";
+// App.js
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
+import FullHomeCleaningService from './pages/FullHomeCleaningService';
 
 const App = () => {
   return (
-    <>
-      <HeroSection />
-      <FeatureHighlights />
-      <StatsIcons />
-      <WhyChooseUs />
-      <Services />
-      <HowItWorks />
-      <Testimonials />
-      <PromotionSection />
-      <FAQSection />
-      <BlogAndFooter />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/services/full-home-cleaning" element={<FullHomeCleaningService />} />
+      </Routes>
+    </Router>
   );
 };
 

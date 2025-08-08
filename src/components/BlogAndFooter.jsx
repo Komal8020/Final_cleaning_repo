@@ -1,5 +1,4 @@
 import React from "react";
-
 const featuredPost = {
   title: "7 Quick Cleaning Hacks For Busy Families",
   author: "Hannah Cole",
@@ -31,7 +30,6 @@ const sidePosts = [
     linkText: "Read More →",
   },
 ];
-
 const BlogSection = () => {
   return (
     <section className="py-16 px-6 md:px-20 bg-white">
@@ -46,8 +44,6 @@ const BlogSection = () => {
           Tips, tricks, and insights to maintain a fresher home.
         </p>
       </div>
-
-
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 bg-white rounded-xl shadow-md overflow-hidden flex flex-col">
           <div className="w-full h-56 md:h-72 overflow-hidden rounded-t-xl">
@@ -110,6 +106,7 @@ const BlogSection = () => {
 
 const NewsletterFooter = () => {
   return (
+    
     <footer className="bg-[#0f172a] text-white pt-16">
       <div className="max-w-7xl mx-auto px-6">
         <div className="bg-gradient-to-r from-[#1f64f0] to-[#2668f4] rounded-xl p-6 flex flex-col md:flex-row items-center gap-6">

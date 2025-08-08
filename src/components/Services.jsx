@@ -3,7 +3,7 @@ import React from "react";
 const Services = () => {
   return (
     <section className="bg-white py-16 px-4 md:px-8 scroll-smooth">
-      <div className="bg-[#e6f1fb] text-[#2e6ef7] text-sm font-semibold px-4 py-1 mb-5 rounded-full w-fit mx-auto">
+      <div className="bg-[#e6f1fb] text-[#f87559] text-sm font-semibold px-4 py-1 mb-5 rounded-full w-fit mx-auto">
              Services
            </div>
       <div className="max-w-7xl mx-auto">
