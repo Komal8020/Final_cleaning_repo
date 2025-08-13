@@ -1,0 +1,610 @@
+[
+  {
+    "vendorId": 1,
+    "vendorName": "Perfect Urban Services",
+    "vendorImage": "images/ac_repair.jpg",
+    "rating": 4.9,
+    "reviews":"245+",
+    "location":"Bengaluru, Karnataka",
+    "services": [
+      {
+        "id": 101,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 102,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 103,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 104,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 105,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "3000-4000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 106,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "4000-5000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 107,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "5000-6000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 108,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "6000-7500 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 109,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "7500-10000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 2,
+    "vendorName": "Servpro Cleaning Solutions",
+    "vendorImage": "/images/ac_repair01.jpg",
+    "rating": 4.9,
+    "reviews":"781+",
+    "location":"Bengaluru, Karnataka",
+    "services": [
+      {
+        "id": 201,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 202,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 203,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 204,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "6000-7500 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 205,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "3000-4000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 206,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "4000-5000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 207,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "5000-6000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 3,
+    "vendorName": "Pams Facility Management Services",
+    "vendorImage": "vendor3.jpg",
+    "rating": 4.9,
+    "reviews":"453+",
+    "location":"Bengaluru, Karnataka",
+    "services": [
+      {
+        "id": 301,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 302,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 303,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 304,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 4,
+    "vendorName": "SS Cleaning Solutions",
+    "vendorImage": "vendor4.jpg",
+    "rating": 4.9,
+    "reviews":"532+",
+    "location":"Bengaluru, Karnataka",
+    "services": [
+      {
+        "id": 401,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 402,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 403,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 404,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 405,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "3000-4000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 406,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "4000-5000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 407,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "5000-6000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 408,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "6000-7500 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 409,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "7500-10000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 5,
+    "vendorName": "Dustbusterz Cleaning Solution Pvt Ltd",
+    "vendorImage": "vendor5.jpg",
+    "rating": 4.9,
+    "reviews":"2786+",
+    "location":"Delhi",
+   "services": [
+      {
+        "id": 501,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 502,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 503,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 504,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 505,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "4000-5000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 6,
+    "vendorName": "PBS Perfections Cleaning Pest Control Services",
+    "vendorImage": "vendor5.jpg",
+    "rating": 4.9,
+    "reviews":"2786+",
+    "location":"Ahmedabad",
+   "services": [
+      {
+        "id": 601,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 602,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 603,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 604,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 605,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "3000-4000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      },
+      {
+        "id": 606,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "4000-5000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 7,
+    "vendorName": "Finrox technologies Pvt Ltd",
+    "vendorImage": "vendor5.jpg",
+    "rating": 4.3,
+    "reviews":"234+",
+    "location":"Ahmedabad",
+   "services": [
+      {
+        "id": 701,
+        "title": "Commercial Space Cleaning",
+        "price": 749,
+        "originalPrice": 999, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac01.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 702,
+        "title": "Commercial Space Cleaning",
+        "price": 1274,
+        "originalPrice": 1699, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac03.jpg",
+        "rating": 4.9,
+        "reviews": "150+",
+        "duration": "1 hr"
+      },
+      {
+        "id": 703,
+        "title": "Commercial Space Cleaning",
+        "price": 1999,
+        "originalPrice": 1499, 
+        "description": "1000-2000 sqft",
+        "serviceImage": "/images/ac02.jpg",
+        "rating": 4.3,
+        "reviews": "100+",
+        "duration": "40 mins"
+      },
+      {
+        "id": 704,
+        "title": "Commercial Space  Cleaning",
+        "price": 2474,
+        "originalPrice": 3299, 
+        "description": "2000-3000 sqft",
+        "serviceImage": "/images/ac04.jpg",
+        "rating": 4.8,
+        "reviews": "120+",
+        "duration": "45 mins"
+      },
+      {
+        "id": 705,
+        "title": "Commercial Space  Cleaning",
+        "price": 1499,
+        "originalPrice": 1999, 
+        "description": "3000-4000 sqft",
+        "serviceImage": "/images/ac05.jpg",
+        "rating": 4.9,
+        "reviews": "75+",
+        "duration": "1 hr 45 mins"
+      }
+    ]
+  },
+  {
+    "vendorId": 8,
+    "vendorName": "M C Cleaning Services",
+    "vendorImage": "vendor5.jpg",
+    "rating": 4.3,
+    "reviews":"254+",
+    "location":"Delhi",
+   "services": [
+      {
+        "id": 801,
+        "title": "Commercial Space  Cleaning",
+        "price": 719,
+        "originalPrice": 899, 
+        "description": "<500 sqft",
+        "serviceImage": "/images/ac_repair01.jpg",
+        "rating": 4.6,
+        "reviews": "100+",
+        "duration": "45 mins"
+      }
+    ]
+  },
+   {
+    "vendorId": 9,
+    "vendorName": "AMR cleaning services",
+    "vendorImage": "vendor5.jpg",
+    "rating": 4.3,
+    "reviews":"254+",
+    "location":"Delhi",
+   "services": [
+      {
+        "id": 801,
+        "title": "Commercial Space  Cleaning",
+        "price": 719,
+        "originalPrice": 899, 
+        "description": "500-1000 sqft",
+        "serviceImage": "/images/ac_repair01.jpg",
+        "rating": 4.6,
+        "reviews": "100+",
+        "duration": "45 mins"
+      }
+    ]
+  }
+]
+

@@ -201,10 +201,58 @@
   font-weight: 600;
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 1px;
   cursor: pointer;
 }
+.filter-cart-actions {
+  display: flex;
+  align-items: center;
+  gap:0px; 
+}
 
+.filter-btn{
+  background-color: white;
+  color: black;
+  border-radius: 20px; 
+  border: none;
+  padding: 8px 20px; 
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  height: 60px;
+  width: 110px;
+  margin: 0 !important;
+}
+.cart-btn {
+  background-color: white;
+  color: black;
+  border-radius: 50px; /* This gives a pill shape */
+  border: none;
+  padding: 8px 20px;  /* Reduced padding as requested */
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 1px;
+  height: 60px;
+  width: 60px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 0 !important;
+}
+
+.filter-btn:hover{
+  background-color: #f87559; /* Orange background on hover */
+  color: white;
+  border-radius: 20px; 
+}
+.cart-btn:hover {
+  background-color: #f87559; /* Orange background on hover */
+  color: white;
+  border-radius: 50px; /* New border-radius on hover */
+}
 .service-page {
   padding-top: 120px;
 }
@@ -373,3 +421,5 @@
     font-size: 0.8rem;
   }
 }
+
+

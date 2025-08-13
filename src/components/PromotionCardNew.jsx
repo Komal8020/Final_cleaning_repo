@@ -9,9 +9,7 @@ const PromotionCardNew = ({
 }) => {
   return (
     <div className="bg-[#1a1a1a] rounded-2xl overflow-hidden shadow-2xl w-full transition-all duration-300 group">
-      
-      {/* Image Section */}
-      <div className="relative h-52 sm:h-60 lg:h-64 overflow-hidden rounded-b-3xl">
+            <div className="relative h-52 sm:h-60 lg:h-64 overflow-hidden rounded-b-3xl">
         <img
           src={image}
           alt={title}
@@ -22,13 +20,9 @@ const PromotionCardNew = ({
           }}
         />
 
-        {/* Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-80"></div>
 
-        {/* Overlay Content */}
 <div className="absolute bottom-0 left-0 text-white rounded-tr-xl bg-black/60 h-18 px-2 flex items-center space-x-4">
-
-  {/* Avatar with spacing from white border */}
   <div className="w-10 h-10 sm:w-16 sm:h-16 flex items-center justify-center border-4 border-white rounded-full">
     <div className="w-11 h-11 sm:w-13 sm:h-13 rounded-full overflow-hidden">
       <img
@@ -43,14 +37,12 @@ const PromotionCardNew = ({
     </div>
   </div>
 
-  {/* Text Content */}
   <div className="flex flex-col">
     <p className="text-sm sm:text-base font-semibold">{buttonText}</p>
   </div>
 </div>
 </div>
 
-      {/* Bottom Section */}
       <div className="bg-[#1a1a1a] group-hover:bg-[#e56d4f] p-4 sm:p-6 text-white flex flex-col justify-between h-36 sm:h-40 lg:h-44 transition-colors duration-300 rounded-3xl">
         <h2 className="text-base sm:text-lg font-semibold leading-snug">
           {title}
