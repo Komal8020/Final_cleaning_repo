@@ -16,7 +16,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 102,
@@ -27,7 +47,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 103,
@@ -38,7 +78,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 104,
@@ -49,7 +109,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 105,
@@ -60,7 +140,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 106,
@@ -71,7 +171,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 107,
@@ -82,7 +202,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 108,
@@ -93,7 +233,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 109,
@@ -104,7 +264,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -125,7 +305,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 202,
@@ -136,7 +336,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 203,
@@ -147,7 +367,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 204,
@@ -158,7 +398,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 205,
@@ -169,7 +429,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 206,
@@ -180,7 +460,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 207,
@@ -191,7 +491,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -212,7 +532,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 302,
@@ -223,7 +563,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 303,
@@ -234,7 +594,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 304,
@@ -245,7 +625,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -266,7 +666,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 402,
@@ -277,7 +697,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 403,
@@ -288,7 +728,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 404,
@@ -299,7 +759,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 405,
@@ -310,7 +790,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 406,
@@ -321,7 +821,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 407,
@@ -332,7 +852,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 408,
@@ -343,7 +883,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 409,
@@ -354,7 +914,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -375,7 +955,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 502,
@@ -386,7 +986,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 503,
@@ -397,7 +1017,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 504,
@@ -408,7 +1048,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 505,
@@ -419,7 +1079,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -440,7 +1120,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 602,
@@ -451,7 +1151,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 603,
@@ -462,7 +1182,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 604,
@@ -473,7 +1213,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 605,
@@ -484,7 +1244,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 606,
@@ -495,7 +1275,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -516,7 +1316,27 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 702,
@@ -527,7 +1347,27 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 703,
@@ -538,7 +1378,27 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 704,
@@ -549,7 +1409,27 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 705,
@@ -560,7 +1440,27 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -581,7 +1481,27 @@
         "serviceImage": "/images/ac_repair01.jpg",
         "rating": 4.6,
         "reviews": "100+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -602,7 +1522,27 @@
         "serviceImage": "/images/ac_repair01.jpg",
         "rating": 4.6,
         "reviews": "100+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   }

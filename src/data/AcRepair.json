@@ -17,7 +17,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 102,
@@ -29,7 +37,15 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 103,
@@ -41,7 +57,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.3,
         "reviews": "100+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 104,
@@ -53,7 +77,15 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "120+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 105,
@@ -65,7 +97,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "75+",
-        "duration": "1 hr 45 mins"
+        "duration": "1 hr 45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -87,7 +127,15 @@
         "rating": 4.8,
         "reviews": "54+",
         "duration": "45 mins",
-        "location":"Delhi"
+        "location":"Delhi",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -109,7 +157,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.7,
         "reviews": "88+",
-        "duration": "1 hr 40 mins"
+        "duration": "1 hr 40 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -131,7 +187,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "46+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 402,
@@ -143,7 +207,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.9,
         "reviews": "53+",
-        "duration": "1 hr 15 mins"
+        "duration": "1 hr 15 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 403,
@@ -155,7 +227,15 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "72+",
-        "duration": "1 hr 15 mins"
+        "duration": "1 hr 15 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 404,
@@ -167,7 +247,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.6,
         "reviews": "38+",
-        "duration": "50 mins"
+        "duration": "50 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 405,
@@ -179,7 +267,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.7,
         "reviews": "31+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 406,
@@ -191,7 +287,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.6,
         "reviews": "29+",
-        "duration": "35 mins"
+        "duration": "35 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
        {
         "id": 407,
@@ -203,7 +307,15 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.9,
         "reviews": "66+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -225,7 +337,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "66+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 502,
@@ -237,7 +357,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.3,
         "reviews": "80+",
-        "duration": "1 hr 10 mins"
+        "duration": "1 hr 10 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 503,
@@ -249,7 +377,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.8,
         "reviews": "100+",
-        "duration": "1 hr"
+        "duration": "1 hr",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 504,
@@ -261,7 +397,15 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.5,
         "reviews": "50+",
-        "duration": "55 mins"
+        "duration": "55 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 505,
@@ -273,7 +417,15 @@
         "serviceImage": "/images/ac06.jpg",
         "rating": 4.2,
         "reviews": "20+",
-        "duration": "30 mins"
+        "duration": "30 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 506,
@@ -285,7 +437,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration":"40 mins"
+        "duration":"40 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -307,7 +467,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.5,
         "reviews": "50+",
-        "duration": "55 mins"
+        "duration": "55 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 602,
@@ -319,7 +487,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.8,
         "reviews": "100+",
-        "duration": "70 mins"
+        "duration": "70 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 603,
@@ -331,7 +507,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "40 mins"
+        "duration": "40 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 604,
@@ -343,7 +527,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.5,
         "reviews": "50+",
-        "duration": "55 mins"
+        "duration": "55 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 605,
@@ -355,7 +547,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.8,
         "reviews": "100+",
-        "duration": "30 mins"
+        "duration": "30 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 606,
@@ -367,7 +567,15 @@
         "serviceImage": "/images/ac_repair.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "60 mins"
+        "duration": "60 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -389,7 +597,15 @@
         "rating": 4.7,
         "location":"Delhi",
         "reviews": "50+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 702,
@@ -401,7 +617,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.8,
         "reviews": "100+",
-        "duration": "60 mins"
+        "duration": "60 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 703,
@@ -413,7 +637,15 @@
         "serviceImage": "/images/ac06.jpg",
         "rating": 4.9,
         "reviews": "150+",
-        "duration": "90 mins"
+        "duration": "90 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 704,
@@ -425,7 +657,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.6,
         "reviews": "50+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 705,
@@ -437,7 +677,15 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.8,
         "reviews": "100+",
-        "duration": "60 mins"
+        "duration": "60 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 706,
@@ -449,7 +697,15 @@
         "serviceImage": "/images/ac02.jpg",
         "rating": 4.5,
         "reviews": "20+",
-        "duration": "30 mins"
+        "duration": "30 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 707,
@@ -461,7 +717,15 @@
         "serviceImage": "/images/ac03.jpg",
         "rating": 4.7,
         "reviews": "50+",
-        "duration":"55 mins"
+        "duration":"55 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   },
@@ -483,7 +747,15 @@
         "serviceImage": "/images/ac_repair01.jpg",
         "rating": 4.6,
         "reviews": "100+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 802,
@@ -495,7 +767,15 @@
         "serviceImage": "/images/ac_repair.jpg",
         "rating": 4.8,
         "reviews": "200+",
-        "duration": "60 mins"
+        "duration": "60 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 803,
@@ -507,7 +787,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.9,
         "reviews": "300+",
-        "duration": "75 mins"
+        "duration": "75 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 804,
@@ -519,7 +807,15 @@
         "serviceImage": "/images/ac04.jpg",
         "rating": 4.7,
         "reviews": "150+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 805,
@@ -531,7 +827,15 @@
         "serviceImage": "/images/ac07.jpg",
         "rating": 4.7,
         "reviews":"200+",
-        "duration": "45 mins"
+        "duration": "45 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 806,
@@ -543,7 +847,15 @@
         "serviceImage": "/images/ac01.jpg",
         "rating": 4.9,
         "reviews": "300+",
-        "duration": "90 mins"
+        "duration": "90 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       },
       {
         "id": 807,
@@ -555,7 +867,15 @@
         "serviceImage": "/images/ac05.jpg",
         "rating": 4.7,
         "reviews": "150+",
-        "duration": "30 mins"
+        "duration": "30 mins",
+        "inclusions": [
+    "Applicable for Window & Split AC Service",
+    "Jet-pump service of AC filters, cooling coil & drain tray",
+    "Pre-service and Post-service checks",
+    "Additional spare part cost and gas charges not included",
+    "Adjusting any loose parts or wires to ensure proper functioning"
+  ],
+  "exclusions": ["No exclusions"]
       }
     ]
   }

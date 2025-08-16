@@ -18,7 +18,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor5.jpg"
+        "serviceImage": "/images/vendor5.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 102,
@@ -33,7 +50,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 103,
         "title": "Deep Cleaning",
@@ -47,7 +81,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 104,
@@ -62,7 +113,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 105,
@@ -77,7 +145,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor1.jpg"
+        "serviceImage": "/images/vendor1.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 106,
@@ -92,7 +177,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service4.jpg"
+        "serviceImage": "/images/service4.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       }
       ,{
         "id": 107,
@@ -107,7 +209,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service5.jpg"
+        "serviceImage": "/images/service5.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 108,
@@ -121,7 +240,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service6.jpg"
+        "serviceImage": "/images/service6.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 109,
@@ -135,7 +271,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/home_cleaning.jpg"
+        "serviceImage": "/images/home_cleaning.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 110,
@@ -149,7 +302,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service8.jpg"
+        "serviceImage": "/images/service8.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 111,
@@ -163,7 +333,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home <1200 sqft",
         "category": "classic",
-        "serviceImage": "/images/service9.jpg"
+        "serviceImage": "/images/service9.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 112,
@@ -177,7 +364,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 1201-2000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 113,
@@ -191,7 +395,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 2001-3000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 114,
@@ -205,7 +426,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 3001-4000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 115,
@@ -219,7 +457,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 4001-5000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 116,
@@ -233,7 +488,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 5001-6000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 117,
@@ -248,7 +520,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor5.jpg"
+        "serviceImage": "/images/vendor5.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 118,
@@ -263,7 +546,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 119,
         "title": "Basic Cleaning",
@@ -277,7 +571,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 120,
@@ -292,7 +597,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 121,
@@ -306,7 +622,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 1000-2000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 122,
@@ -320,7 +656,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 2000-3000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 123,
@@ -334,7 +690,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 3000-4000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 124,
@@ -348,7 +724,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 4000-5000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 125,
@@ -362,7 +758,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 5000-6000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 126,
@@ -377,7 +793,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 6000-7000 sqft",
         "category": "classic",
-        "serviceImage": "/images/vendor5.jpg"
+        "serviceImage": "/images/vendor5.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 127,
@@ -392,7 +828,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 7500-10000 sqft",
         "category": "intense",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },{
         "id": 128,
         "title": "Commercial Space Cleaning",
@@ -406,7 +862,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 500-1000 sqft",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 129,
@@ -421,7 +897,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home <500 sqft",
         "category": "classic",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -444,7 +940,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service15.jpg"
+        "serviceImage": "/images/service15.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 202,
@@ -459,7 +972,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/service16.jpg"
+        "serviceImage": "/images/service16.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 203,
         "title": "Deep Cleaning",
@@ -473,7 +1003,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service17.jpg"
+        "serviceImage": "/images/service17.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 204,
@@ -488,7 +1035,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service18.jpg"
+        "serviceImage": "/images/service18.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 205,
@@ -503,7 +1067,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service19.jpg"
+        "serviceImage": "/images/service19.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 206,
@@ -518,7 +1099,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service20.jpg"
+        "serviceImage": "/images/service20.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       }
       ,{
         "id": 207,
@@ -533,7 +1131,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service21.jpg"
+        "serviceImage": "/images/service21.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 208,
@@ -548,7 +1163,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service22.jpg"
+        "serviceImage": "/images/service22.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 209,
@@ -563,7 +1195,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service23.jpg"
+        "serviceImage": "/images/service23.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 210,
@@ -578,7 +1227,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service24.jpg"
+        "serviceImage": "/images/service24.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 211,
@@ -593,7 +1259,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home <1200 sqft",
         "category": "classic",
-        "serviceImage": "/images/service25.jpg"
+        "serviceImage": "/images/service25.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 212,
@@ -608,7 +1291,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 1201-2000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service8.jpg"
+        "serviceImage": "/images/service8.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 213,
@@ -623,7 +1323,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 2001-3000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service9.jpg"
+        "serviceImage": "/images/service9.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 214,
@@ -638,7 +1355,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 3001-4000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 215,
@@ -653,7 +1387,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 4001-5000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 216,
@@ -668,7 +1419,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 5001-6000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 217,
@@ -683,7 +1451,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Kitchen 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 218,
@@ -698,7 +1483,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Balcony",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 219,
@@ -713,7 +1515,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service15.jpg"
+        "serviceImage": "/images/service15.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 220,
@@ -728,7 +1547,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room Kitchen Set",
         "category": "classic",
-        "serviceImage": "/images/service16.jpg"
+        "serviceImage": "/images/service16.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 221,
@@ -743,7 +1579,26 @@
         "tag": "2 BATHROOMS",
         "description": ">500 sqft",
         "category": "classic",
-        "serviceImage": "/images/service15.jpg"
+        "serviceImage": "/images/service15.jpg",
+        "inclusions": [
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 222,
@@ -758,7 +1613,26 @@
         "tag": "2 BATHROOMS",
         "description": "500-1000 sqft",
         "category": "intense",
-        "serviceImage": "/images/service16.jpg"
+        "serviceImage": "/images/service16.jpg",
+        "inclusions": [
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },{
         "id": 223,
         "title": "Premium Restaurant Cleaning",
@@ -772,7 +1646,26 @@
         "tag": "2 BATHROOMS",
         "description": "1000-2000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service17.jpg"
+        "serviceImage": "/images/service17.jpg",
+        "inclusions": [
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 224,
@@ -787,7 +1680,26 @@
         "tag": "2 BATHROOMS",
         "description": "2000-3000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service18.jpg"
+        "serviceImage": "/images/service18.jpg",
+        "inclusions": [
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 225,
@@ -802,7 +1714,26 @@
         "tag": "2 BATHROOMS",
         "description": "3000-4000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service19.jpg"
+        "serviceImage": "/images/service19.jpg",
+        "inclusions": [
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 226,
@@ -817,7 +1748,17 @@
         "tag": "2 BATHROOMS",
         "description": "6 sofa seats",
         "category": "classic",
-        "serviceImage": "/images/service20.jpg"
+        "serviceImage": "/images/service20.jpg",
+        "inclusions": [
+    "Dry vacuuming from all corner regions of your sofa",
+    "Complete scrubbing and shampooing of your sofa with a foam sponge and soft brush that efficiently cleans the furniture.",
+    "Our sofa cleaning experts perform spot treatment with chemicals for the areas that are ruined due to spots."
+  ],
+  "exclusions": [
+    "Complete removal of ink stains",
+    "Wet shampooing of leather/rexine/wooden sofa",
+    "Cushions cleaning"
+  ]
       }
       ,{
         "id": 227,
@@ -832,7 +1773,17 @@
         "tag": "2 BATHROOMS",
         "description": "7 sofa seats",
         "category": "classic",
-        "serviceImage": "/images/service21.jpg"
+        "serviceImage": "/images/service21.jpg",
+        "inclusions": [
+    "Dry vacuuming from all corner regions of your sofa",
+    "Complete scrubbing and shampooing of your sofa with a foam sponge and soft brush that efficiently cleans the furniture.",
+    "Our sofa cleaning experts perform spot treatment with chemicals for the areas that are ruined due to spots."
+  ],
+  "exclusions": [
+    "Complete removal of ink stains",
+    "Wet shampooing of leather/rexine/wooden sofa",
+    "Cushions cleaning"
+  ]
       },
       {
         "id": 228,
@@ -847,7 +1798,17 @@
         "tag": "2 BATHROOMS",
         "description": "8 sofa seats",
         "category": "classic",
-        "serviceImage": "/images/service22.jpg"
+        "serviceImage": "/images/service22.jpg",
+        "inclusions": [
+    "Dry vacuuming from all corner regions of your sofa",
+    "Complete scrubbing and shampooing of your sofa with a foam sponge and soft brush that efficiently cleans the furniture.",
+    "Our sofa cleaning experts perform spot treatment with chemicals for the areas that are ruined due to spots."
+  ],
+  "exclusions": [
+    "Complete removal of ink stains",
+    "Wet shampooing of leather/rexine/wooden sofa",
+    "Cushions cleaning"
+  ]
       },
       {
         "id": 229,
@@ -862,7 +1823,17 @@
         "tag": "2 BATHROOMS",
         "description": "9 sofa sets",
         "category": "classic",
-        "serviceImage": "/images/service23.jpg"
+        "serviceImage": "/images/service23.jpg",
+        "inclusions": [
+    "Dry vacuuming from all corner regions of your sofa",
+    "Complete scrubbing and shampooing of your sofa with a foam sponge and soft brush that efficiently cleans the furniture.",
+    "Our sofa cleaning experts perform spot treatment with chemicals for the areas that are ruined due to spots."
+  ],
+  "exclusions": [
+    "Complete removal of ink stains",
+    "Wet shampooing of leather/rexine/wooden sofa",
+    "Cushions cleaning"
+  ]
       }
     ]
   },
@@ -885,7 +1856,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service5.jpg"
+        "serviceImage": "/images/service5.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 302,
@@ -900,7 +1888,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/service6.jpg"
+        "serviceImage": "/images/service6.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 303,
         "title": "Deep Cleaning",
@@ -914,7 +1919,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service7.jpg"
+        "serviceImage": "/images/service7.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 304,
@@ -929,7 +1951,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service8.jpg"
+        "serviceImage": "/images/service8.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 305,
@@ -944,7 +1983,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service9.jpg"
+        "serviceImage": "/images/service9.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 306,
@@ -959,7 +2015,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       }
       ,{
         "id": 307,
@@ -974,7 +2047,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 308,
@@ -989,7 +2079,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 309,
@@ -1004,7 +2111,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 310,
@@ -1019,7 +2143,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 311,
@@ -1034,7 +2175,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Kitchen 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 312,
@@ -1049,7 +2207,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Balcony",
         "category": "classic",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 313,
@@ -1064,7 +2239,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 314,
@@ -1079,7 +2271,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room Kitchen Set",
         "category": "classic",
-        "serviceImage": "/images/service1.jpg"
+        "serviceImage": "/images/service1.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 315,
@@ -1094,7 +2303,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions":  [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 316,
         "title": "Basic Cleaning",
@@ -1108,7 +2328,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 317,
@@ -1123,7 +2354,18 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+  "Deep Cleaning of bathrooms",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Wet wiping and mopping of floor of all rooms"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Usage of scrubbing machine & cleaning of cabinet interiors",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 318,
@@ -1138,7 +2380,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 1000-2000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 319,
@@ -1153,7 +2415,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 2000-3000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 320,
@@ -1168,7 +2450,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 3000-4000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 321,
@@ -1183,7 +2485,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 4000-5000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 322,
@@ -1198,7 +2520,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 5000-6000 sqft",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 323,
@@ -1213,7 +2555,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 6000-7000 sqft",
         "category": "classic",
-        "serviceImage": "/images/vendor5.jpg"
+        "serviceImage": "/images/vendor5.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },
       {
         "id": 324,
@@ -1228,7 +2590,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 7500-10000 sqft",
         "category": "intense",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       },{
         "id": 325,
         "title": "Commercial Space Cleaning",
@@ -1242,7 +2624,27 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home 500-1000 sqft",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+    "Deep Cleaning covers Offices, Hotels, Shops, Restaurants, and PGs with complete sanitization of floors, furniture, washrooms, and kitchens",
+    "Deep Cleaning of all Rooms",
+    "Deep Cleaning of bathrooms",
+    "Deep Cleaning of Kitchen & Balcony Area",
+    "Ceiling dusting by micro fibre Duster",
+    "Fans/AC dusting & Cleaning",
+    "Walls dusting by micro fibre Duster",
+    "Window and channel cleaning",
+    "Curtain, sofa, mattress, office chair & carpet dry vacuuming",
+    "Thorough Glass Cleaning",
+    "All Wooden Furniture, Doors, etc. cleaning",
+    "Floor Scrubbing"
+  ],
+  "exclusions": [
+    "Cleaning of kitchen cabinet interiors, appliances, furniture interiors, upholstery, chandelier and terrace",
+    "Removal of utensils, objects and reorganisation",
+    "Carpet Shampooing not covered",
+    "Wet wiping of wall & ceiling"
+  ]
       }
     ]
   },
@@ -1265,7 +2667,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service18.jpg"
+        "serviceImage": "/images/service18.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 402,
@@ -1280,7 +2699,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/vendor4.jpg"
+        "serviceImage": "/images/vendor4.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 403,
         "title": "Deep Cleaning",
@@ -1294,7 +2730,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service1.jpg"
+        "serviceImage": "/images/service1.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 404,
@@ -1309,7 +2762,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service8.jpg"
+        "serviceImage": "/images/service8.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 405,
@@ -1324,7 +2794,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor2.jpg"
+        "serviceImage": "/images/vendor2.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 406,
@@ -1339,7 +2826,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service20.jpg"
+        "serviceImage": "/images/service20.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 407,
@@ -1354,7 +2858,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service21.jpg"
+        "serviceImage": "/images/service21.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 408,
@@ -1369,7 +2890,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service2.jpg"
+        "serviceImage": "/images/service2.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 409,
@@ -1384,7 +2922,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Unfurnished",
         "category": "classic",
-        "serviceImage": "/images/service23.jpg"
+        "serviceImage": "/images/service23.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 410,
@@ -1399,7 +2954,24 @@
         "tag": "2 BATHROOMS",
         "description": "Independent Home <1200 sqft",
         "category": "classic",
-        "serviceImage": "/images/service6.jpg"
+        "serviceImage": "/images/service6.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 411,
@@ -1414,7 +2986,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Kitchen 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service9.jpg"
+        "serviceImage": "/images/service9.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 412,
@@ -1429,7 +3018,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Balcony",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 413,
@@ -1444,7 +3050,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service25.jpg"
+        "serviceImage": "/images/service25.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 414,
@@ -1459,7 +3082,24 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room Kitchen Set",
         "category": "classic",
-        "serviceImage": "/images/service13.jpg"
+        "serviceImage": "/images/service13.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       }
     ]
   },
@@ -1482,7 +3122,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 1 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service19.jpg"
+        "serviceImage": "/images/service19.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 502,
@@ -1497,7 +3154,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 2 BHK Furnished",
         "category": "intense",
-        "serviceImage": "/images/service20.jpg"
+        "serviceImage": "/images/service20.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },{
         "id": 503,
         "title": "Deep Cleaning",
@@ -1511,7 +3185,24 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 3 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/service23.jpg"
+        "serviceImage": "/images/service23.jpg",
+        "inclusions": [
+  "Deep Cleaning of all rooms",
+  "Deep Cleaning of bathrooms",
+  "Deep Cleaning of Kitchen",
+  "Kitchen cabinets & Balcony Area",
+  "Floor Scrubbing",
+  "Ceiling dusting by micro fibre Duster",
+  "Fans/AC dusting & Cleaning",
+  "Walls dusting by micro fibre Duster",
+  "Window and channel cleaning",
+  "Curtain, sofa, mattress & carpet vacuuming",
+  "Thorough Glass Cleaning",
+  "All Wooden Furniture, Doors, etc. cleaning"
+],
+"exclusions": ["Cleaning of kitchen appliances, furniture interiors, upholstery, chandelier and terrace",
+"Removal of utensils, objects and reorganisation",
+"Wet wiping of wall & ceiling"]
       },
       {
         "id": 504,
@@ -1526,7 +3217,16 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 4 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor1.jpg"
+        "serviceImage": "/images/vendor1.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       },
       {
         "id": 505,
@@ -1541,7 +3241,16 @@
         "tag": "2 BATHROOMS",
         "description": "Apartment 5 BHK Furnished",
         "category": "classic",
-        "serviceImage": "/images/vendor3.jpg"
+        "serviceImage": "/images/vendor3.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       },
       {
         "id": 508,
@@ -1556,7 +3265,16 @@
         "tag": "2 BATHROOMS",
         "description": "1 Kitchen 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service14.jpg"
+        "serviceImage": "/images/service14.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       },
       {
         "id": 509,
@@ -1571,7 +3289,16 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Balcony",
         "category": "classic",
-        "serviceImage": "/images/service11.jpg"
+        "serviceImage": "/images/service11.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       },
       {
         "id": 510,
@@ -1586,7 +3313,16 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room 1 Bathroom",
         "category": "classic",
-        "serviceImage": "/images/service12.jpg"
+        "serviceImage": "/images/service12.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       },
       {
         "id": 511,
@@ -1601,7 +3337,16 @@
         "tag": "2 BATHROOMS",
         "description": "1 Room Kitchen Set",
         "category": "classic",
-        "serviceImage": "/images/service10.jpg"
+        "serviceImage": "/images/service10.jpg",
+        "inclusions": [
+    "Removal of accumulated dust particles, dirt and debris",
+    "Application of a foam-based shampoo on the carpet using a sponge",
+    "Cleaning the shampoo by vacuuming & wiping the water using a microfibre cloth",
+    "Allow the carpet to dry completely for 4-5 hrs under the fan"
+  ],
+  "exclusions": [
+    "Complete removal of ink stains"
+  ]
       }
     ]
   }

@@ -68,14 +68,13 @@
 // };
 
 // export default VendorSection;
-
 import React, { useRef, useState } from 'react';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import ServiceCard from './ServiceCard';
 import ViewAllPopup from './ViewAllPopup';
 import './VendorSection.css';
 
-const VendorSection = ({ vendor}) => {
+const VendorSection = ({ vendor }) => {
   const [showPopup, setShowPopup] = useState(false);
   const scrollRef = useRef(null);
 
@@ -135,6 +134,7 @@ const VendorSection = ({ vendor}) => {
       <div className="service-card-wrapper" ref={scrollRef}>
         {servicesToRender.map((service) => (
           <div key={service.id} className="service-card-slider">
+            {/* The ServiceCard now receives the full service object as a prop */}
             <ServiceCard service={service} />
           </div>
         ))}

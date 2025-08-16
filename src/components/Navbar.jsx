@@ -136,7 +136,12 @@
 
 // export default Navbar;
 
+
 import React, { useEffect, useState, useRef } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import { selectCartItemCount, toggleCart } from '../store/CartSlice';
+import { Link } from 'react-router-dom';
+import AccountMenu from "./AccountMenu";
 import {
   FaPhone,
   FaShoppingCart,
@@ -147,12 +152,16 @@ import {
 } from 'react-icons/fa';
 import './Navbar.css';
 
-const Navbar = ({ toggleServicePopup, showServices, toggleFilterSidebar }) => {
+const Navbar = ({ toggleFilterSidebar, onAboutClick }) => {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [showSearchBox, setShowSearchBox] = useState(false);
   const topBarRef = useRef(null);
   const [topBarHeight, setTopBarHeight] = useState(28);
+
+  // Redux hooks for state management
+  const dispatch = useDispatch();
+  const cartItemCount = useSelector(selectCartItemCount);
 
   const toggleMenu = () => setMenuOpen(!menuOpen);
   const toggleSearchBox = () => setShowSearchBox(!showSearchBox);
@@ -226,13 +235,17 @@ const Navbar = ({ toggleServicePopup, showServices, toggleFilterSidebar }) => {
         </div>
 
         <div className={`nav-links ${menuOpen ? 'show' : ''}`}>
-          <a href="/">Home</a>
-          <a href="/blog">Blog</a>
-          <a href="/about">About Us</a>
-          <a href="/contact">Contact</a>
-        </div>
+  <Link to="/">Home</Link>
+  <Link to="/blog">Blog</Link>
+  <button onClick={onAboutClick} className="bg-transparent border-none cursor-pointer">
+    About Us
+  </button>
+  <Link to="/contact">Contact</Link>
+</div>
+
 
         <div className={`nav-actions ${menuOpen ? 'show' : ''}`}>
+          <AccountMenu/>
           {scrolled && (
             <div
               className="main-search-icon"
@@ -247,8 +260,14 @@ const Navbar = ({ toggleServicePopup, showServices, toggleFilterSidebar }) => {
             <button className="filter-btn" onClick={toggleFilterSidebar}>
               <FaFilter /> Filter
             </button>
-            <button className="cart-btn">
-              <FaShoppingCart /> 
+            
+           <button className="cart-btn relative group" onClick={() => dispatch(toggleCart())}>
+              <FaShoppingCart className="group-hover:text-[#fff] group-hover:bg-[#f87559]" /> 
+              {cartItemCount > 0 && (
+                <span className="absolute -top-1 -right-1 bg-[#f87559] text-white text-xs rounded-full h-5 w-5 flex items-center justify-center group-hover:bg-[#fff] group-hover:text-[#f87559]">
+                  {cartItemCount}
+                </span>
+              )}
             </button>
           </div>
         </div>

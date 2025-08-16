@@ -266,9 +266,10 @@
 
 // export default FullHomeCleaningService;
 
-
 import React, { useState, useEffect } from 'react';
 import { useParams, useLocation } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
+import { selectIsAuthPopupOpen, setAuthPopupOpen } from '../store/CartSlice'; // ✅ added setAuthPopupOpen
 import BannerSlider from '../components/BannerSlider';
 import Navbar from '../components/Navbar';
 import FooterWithCarousel from '../components/FooterWithCarousel';
@@ -276,6 +277,9 @@ import VendorSection from '../components/VendorSection';
 import ServicePopup from '../components/ServicePopup';
 import FilterSidebar from '../components/FilterSidebar';
 import Portal from '../components/Portal';
+import CartSidebar from '../components/CartSidebar'; 
+import AuthPopup from '../components/AuthPopup';
+import AccountMenu from '../components/AccountMenu';
 
 import fullHomeVendors from '../data/fullHomeVendors.json';
 import acRepairVendors from '../data/acRepair.json';
@@ -285,19 +289,23 @@ const services = [
   { title: 'Full Home Cleaning', image: '/images/home_cleaning copy.jpg', link: '/services/full-home-cleaning' },
   { title: 'AC Repair Service', image: '/images/ac_repair.jpg', link: '/services/ac-repair' },
 ];
-
 const FullHomeCleaningService = () => {
   const { serviceName } = useParams();
   const location = useLocation();
   const userLocation = location.state?.location;
 
+  const dispatch = useDispatch(); 
+  const isAuthPopupOpen = useSelector(selectIsAuthPopupOpen);
+
   const [showServices, setShowServices] = useState(false);
   const [allVendors, setAllVendors] = useState([]);
   const [filteredVendors, setFilteredVendors] = useState([]);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [isAuthenticated, setAuthenticated] = useState(false);
+
   const [appliedFilters, setAppliedFilters] = useState({
     minPrice: 400,
-    maxPrice: 3000,
+    maxPrice: 5000,
     serviceTypes: [],
     apartmentSize: [],
     location: '',
@@ -312,15 +320,12 @@ const FullHomeCleaningService = () => {
     'commercial-cleaning': commercialCleaning,
   };
 
-  // Load vendors when service changes
   useEffect(() => {
     const vendors = serviceDataMap[serviceName] || [];
     setAllVendors(vendors);
-
-    // Reset filters when service changes
     setAppliedFilters({
       minPrice: 400,
-      maxPrice: 3000,
+      maxPrice: 5000,
       serviceTypes: [],
       apartmentSize: [],
       location: '',
@@ -330,22 +335,17 @@ const FullHomeCleaningService = () => {
   useEffect(() => {
   let vendorsToFilter = allVendors;
 
-  // Vendor-level filter: user location or applied location filter
-  if (userLocation) {
+  // 🔹 Location override: filter by appliedFilters.location if set, else fallback to userLocation
+  const activeLocation = appliedFilters.location || userLocation;
+
+  if (activeLocation) {
     vendorsToFilter = vendorsToFilter.filter(
       (vendor) =>
         vendor.location?.toLowerCase().replace(/\s/g, '') ===
-        userLocation.toLowerCase().replace(/\s/g, '')
+        activeLocation.toLowerCase().replace(/\s/g, '')
     );
   }
 
-  if (appliedFilters.location) {
-    vendorsToFilter = vendorsToFilter.filter((vendor) =>
-      vendor.location?.toLowerCase().includes(appliedFilters.location.toLowerCase())
-    );
-  }
-
-  // Filter services inside each vendor
   vendorsToFilter = vendorsToFilter
     .map((vendor) => {
       const filteredServices = vendor.services.filter((service) => {
@@ -370,9 +370,9 @@ const FullHomeCleaningService = () => {
           appliedFilters.serviceTypes.length ||
           appliedFilters.apartmentSize.length ||
           appliedFilters.minPrice !== 400 ||
-          appliedFilters.maxPrice !== 3000
+          appliedFilters.maxPrice !== 5000
             ? filteredServices
-            : vendor.services, // If no filters, show all services
+            : vendor.services,
       };
     })
     .filter((vendor) => vendor.services.length > 0);
@@ -398,6 +398,7 @@ const FullHomeCleaningService = () => {
 
   return (
     <div className="service-page relative">
+      <BannerSlider/>
       <Navbar
         toggleServicePopup={toggleServicePopup}
         showServices={showServices}
@@ -428,7 +429,43 @@ const FullHomeCleaningService = () => {
         </Portal>
       )}
 
-      <BannerSlider />
+      <CartSidebar /> 
+      {isAuthPopupOpen && (
+  <Portal>
+    <AuthPopup
+      onClose={() => dispatch(setAuthPopupOpen(false))}
+      onAuthSuccess={(userData) => {
+        // Retrieve existing users from localStorage
+        const existingUsers = JSON.parse(localStorage.getItem('users')) || [];
+
+        // Check for duplicates by mobile number
+        const duplicateUser = existingUsers.find(
+          (user) => user.mobile === userData.mobile
+        );
+
+        if (duplicateUser) {
+          console.warn(
+            `User with mobile ${userData.mobile} already exists in localStorage`
+          );
+        } else {
+          // Add the new user
+          const updatedUsers = [...existingUsers, userData];
+
+          // Save back to localStorage
+          localStorage.setItem('users', JSON.stringify(updatedUsers));
+
+          // Log the newly added user
+          console.log('User added to localStorage:', userData);
+        }
+
+        // Also set authenticated user for current session
+        setAuthenticated(true);
+        localStorage.setItem('currentUser', JSON.stringify(userData));
+      }}
+    />
+  </Portal>
+)}
+
 
       <div className="container mx-auto px-6 py-12">
         <h1 className="text-3xl font-bold text-center mb-8 capitalize">

@@ -10,13 +10,18 @@ import PromotionSection from '../components/PromotionSection';
 import FAQSection from '../components/FAQSection';
 import FooterWithCarousel from '../components/FooterWithCarousel';
 import ServicePopup from '../components/ServicePopup';
+import CartSidebar from '../components/CartSidebar'; 
 
 const HomePage = () => {
   const [showServices, setShowServices] = useState(false);
   const servicesRef = useRef(null);
+  const featuresRef = useRef(null);
 
   const toggleServicePopup = () => setShowServices(!showServices);
 
+  const scrollToFeatures = () => {
+    featuresRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
   const scrollToServices = () => {
     servicesRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
@@ -36,7 +41,7 @@ const HomePage = () => {
 
   return (
     <>
-      <Navbar toggleServicePopup={toggleServicePopup} showServices={showServices} onServiceClick={scrollToServices} />
+      <Navbar toggleServicePopup={toggleServicePopup} showServices={showServices} onServiceClick={scrollToServices} onAboutClick={scrollToFeatures}  />
 
       {showServices && (
         <ServicePopup
@@ -44,9 +49,11 @@ const HomePage = () => {
           onClose={toggleServicePopup}
         />
       )}
-
+      <CartSidebar /> 
       <HeroSection />
-      <FeatureHighlights />
+      <div ref={featuresRef}>
+        <FeatureHighlights />
+      </div>
       <WhyChooseUs />
       <div ref={servicesRef}>
         <Services />
