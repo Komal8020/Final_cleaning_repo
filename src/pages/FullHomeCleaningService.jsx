@@ -289,6 +289,8 @@ const services = [
   { title: 'Full Home Cleaning', image: '/images/home_cleaning copy.jpg', link: '/services/full-home-cleaning' },
   { title: 'AC Repair Service', image: '/images/ac_repair.jpg', link: '/services/ac-repair' },
 ];
+
+
 const FullHomeCleaningService = () => {
   const { serviceName } = useParams();
   const location = useLocation();

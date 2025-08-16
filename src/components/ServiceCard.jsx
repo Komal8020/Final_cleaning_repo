@@ -3,6 +3,7 @@ import { FaStar, FaClock, FaTicketAlt, FaTimes } from 'react-icons/fa';
 import { useDispatch, useSelector } from 'react-redux';
 import { addItem, setAuthPopupOpen, selectIsAuthenticated } from '../store/CartSlice';
 import './ServiceCard.css';
+import BookingPopup from './BookingPopup';
 
 
 const ServiceDetailPopup = ({ service, onClose }) => {
@@ -141,29 +142,50 @@ const PriceTag = ({ price, originalPrice }) => (
   </div>
 );
 
-// --- Main ServiceCard Component ---
+
+
 const ServiceCard = ({ service }) => {
   const dispatch = useDispatch();
   const isAuthenticated = useSelector(selectIsAuthenticated);
+
+  // Existing details popup (unchanged)
   const [isPopupOpen, setIsPopupOpen] = useState(false);
 
+  // New booking popup state
+  const [isBookingPopupOpen, setIsBookingPopupOpen] = useState(false);
+
+  // Show login if not authenticated; otherwise open booking calendar
   const handleAddToCart = () => {
-    const userData = JSON.parse(localStorage.getItem('userData'));
-    if (!userData) {
+    // Be robust to either key your app might set
+    const currentUser =
+      JSON.parse(localStorage.getItem("currentUser") || "null") ||
+      JSON.parse(localStorage.getItem("userData") || "null");
+
+    if (!currentUser && !isAuthenticated) {
+      // Not logged in → open auth popup
       dispatch(setAuthPopupOpen(true));
-    } else {
-      dispatch(addItem(service));
-      console.log("✅ Added to cart:", service);
+
+      // Optional: remember what user intended (so you can re-open booking after login)
+      // localStorage.setItem("pendingService", JSON.stringify(service));
+      return;
     }
+
+    // Logged in → open booking popup (do NOT add to cart yet)
+    setIsBookingPopupOpen(true);
   };
 
-  const handleViewDetails = () => {
-    setIsPopupOpen(true);
+  // Confirm from booking popup → now add to cart with the selected date
+  const handleConfirmBooking = (selectedDate) => {
+    dispatch(addItem({ ...service, bookingDate: selectedDate }));
+    console.log("✅ Added to cart with booking date:", {
+      ...service,
+      bookingDate: selectedDate,
+    });
+    setIsBookingPopupOpen(false);
   };
 
-  const handleClosePopup = () => {
-    setIsPopupOpen(false);
-  };
+  const handleViewDetails = () => setIsPopupOpen(true);
+  const handleCloseDetails = () => setIsPopupOpen(false);
 
   return (
     <>
@@ -174,15 +196,18 @@ const ServiceCard = ({ service }) => {
             alt={service.title}
             className="service-image"
           />
+
           <div className="frosted-overlay">
             <div className="service-header">
               <h3 className="service-title">{service.title}</h3>
               <p className="service-description">{service.description}</p>
             </div>
+
             <div className="hover-actions">
               <button className="add-cart-btn" onClick={handleAddToCart}>
                 Add to Cart
               </button>
+
               <FrostedActionButton
                 label="View Details"
                 customClass="view-detail-btn"
@@ -203,8 +228,13 @@ const ServiceCard = ({ service }) => {
                 <FaClock className="clock-icon" /> {service.duration}
               </span>
             </div>
-            <PriceTag price={service.price} originalPrice={service.originalPrice} />
+
+            <PriceTag
+              price={service.price}
+              originalPrice={service.originalPrice}
+            />
           </div>
+
           <div className="meta-right">
             <FrostedActionButton
               label="Book Now"
@@ -216,8 +246,17 @@ const ServiceCard = ({ service }) => {
         </div>
       </div>
 
+      {/* Existing details popup (unchanged) */}
       {isPopupOpen && (
-        <ServiceDetailPopup service={service} onClose={handleClosePopup} />
+        <ServiceDetailPopup service={service} onClose={handleCloseDetails} />
+      )}
+
+      {/* New booking popup (opens only after login) */}
+      {isBookingPopupOpen && (
+        <BookingPopup
+          onClose={() => setIsBookingPopupOpen(false)}
+          onConfirm={handleConfirmBooking}
+        />
       )}
     </>
   );

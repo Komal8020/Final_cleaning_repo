@@ -7,7 +7,7 @@ import {
   clearCart,
 } from "../store/CartSlice";
 import { addToHistory } from "../store/userSlice";
-import { FaTimes, FaTrash } from "react-icons/fa";
+import { FaTimes, FaTrash, FaCalendarAlt } from "react-icons/fa";
 
 const CartSidebar = () => {
   const dispatch = useDispatch();
@@ -25,17 +25,19 @@ const CartSidebar = () => {
   const handleCheckout = () => {
     if (cartItems.length === 0) return;
 
-    // Convert cart items into history entries
+    // Convert cart items into history entries (preserve bookingDate if available)
     const newHistoryItems = cartItems.map((item) => ({
-      id: Date.now() + Math.random(), // unique ID
-      title: item.title,
-      description: item.description,
-      price: item.price,
-      serviceImage:
-        item.serviceImage ||
-        "https://via.placeholder.com/80x80.png?text=Service",
-      date: new Date().toISOString().split("T")[0],
-    }));
+  id: Date.now() + Math.random(),
+  title: item.title,
+  description: item.description,
+  price: item.price,
+  serviceImage: item.serviceImage || "https://via.placeholder.com/80x80.png?text=Service",
+  bookingDate: item.bookingDate || "Not selected",
+  purchasedOn: new Date().toISOString().split("T")[0],
+  status: "processing",         
+  statusColor: "blue",     
+}));
+
 
     // Add each cart item to purchase history
     newHistoryItems.forEach((historyItem) => {
@@ -77,7 +79,7 @@ const CartSidebar = () => {
         ) : (
           cartItems.map((item) => (
             <div
-              key={item.id}
+              key={item.id || item.title}
               className="flex items-center py-4 border-b border-gray-200 last:border-b-0"
             >
               <div className="flex-shrink-0 w-16 h-16 overflow-hidden rounded-md mr-4">
@@ -90,7 +92,16 @@ const CartSidebar = () => {
               <div className="flex-grow">
                 <h3 className="font-semibold text-gray-800">{item.title}</h3>
                 <p className="text-sm text-gray-500">{item.description}</p>
-                <div className="flex items-center justify-between mt-1">
+
+                {/* Booking Date */}
+                {item.bookingDate && (
+                  <div className="flex items-center text-xs text-gray-600 mt-1">
+                    <FaCalendarAlt className="mr-1 text-[#f87559]" />
+                    <span>Booking Date: {item.bookingDate}</span>
+                  </div>
+                )}
+
+                <div className="flex items-center justify-between mt-2">
                   <span className="text-lg font-bold text-gray-900">
                     ₹{item.price}
                   </span>
