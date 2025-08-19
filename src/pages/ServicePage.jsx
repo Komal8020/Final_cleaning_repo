@@ -24,7 +24,6 @@ const ServicePage = () => {
   const [showServices, setShowServices] = useState(false);
   const toggleServicePopup = () => setShowServices(!showServices);
 
-  // Map service names to vendor data
   const serviceDataMap = {
     'full-home-cleaning': { vendors: fullHomeVendors },
     'ac-repair': { vendors: acRepairVendors },
@@ -38,7 +37,6 @@ const ServicePage = () => {
     'balloon-decoration': { vendors: balloonDecorationVendors },
   };
 
-  // Default to full home cleaning if no match
   const vendors =
     serviceDataMap[serviceName]?.vendors || serviceDataMap['full-home-cleaning'].vendors;
 
