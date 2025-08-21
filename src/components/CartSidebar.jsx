@@ -8,11 +8,14 @@ import {
 } from "../store/CartSlice";
 import { addToHistory } from "../store/userSlice";
 import { FaTimes, FaTrash, FaCalendarAlt } from "react-icons/fa";
+import { selectUser } from "../store/userSlice";  // adjust path
+
 
 const CartSidebar = () => {
   const dispatch = useDispatch();
   const { items: cartItems, isOpen } = useSelector((state) => state.cart);
   const cartTotal = useSelector(selectCartTotal);
+  const user = useSelector(selectUser);
 
   const handleRemoveItem = (id) => {
     dispatch(removeItem(id));
@@ -21,37 +24,70 @@ const CartSidebar = () => {
   const handleClose = () => {
     dispatch(closeCart());
   };
+  
 
   const handleCheckout = () => {
-    if (cartItems.length === 0) return;
+  if (cartItems.length === 0) return;
 
-    // Convert cart items into history entries (preserve bookingDate if available)
-    const newHistoryItems = cartItems.map((item) => ({
-  id: Date.now() + Math.random(),
-  title: item.title,
-  description: item.description,
-  price: item.price,
-  serviceImage: item.serviceImage || "https://via.placeholder.com/80x80.png?text=Service",
-  bookingDate: item.bookingDate || "Not selected",
-  purchasedOn: new Date().toISOString().split("T")[0],
-  status: "processing",         
-  statusColor: "blue",     
-}));
+  // ✅ Get user details from reduxState in localStorage
+  const storedState = JSON.parse(localStorage.getItem("reduxState")) || {};
+  const storedUser = storedState.user?.user || {}; 
 
-
-    // Add each cart item to purchase history
-    newHistoryItems.forEach((historyItem) => {
-      dispatch(addToHistory(historyItem));
-    });
-
-    // Clear the cart
-    dispatch(clearCart());
-
-    // Optional: close the cart sidebar
-    dispatch(closeCart());
-
-    alert("✅ Checkout successful! Your services have been added to history.");
+  const userDetails = {
+    email: storedUser.email || "N/A",
+    name: storedUser.username || "N/A",
+    phone: storedUser.mobileNumber || "N/A",
+    location: storedUser.location || "N/A",
+    pincode: storedUser.pincode || "N/A",
+    address: storedUser.address || "N/A",
   };
+
+  // ✅ Generate 16-digit Product ID (mobile + timestamp)
+  const phonePart = (userDetails.phone || "").replace(/\D/g, ""); 
+  const timestamp = new Date()
+    .toISOString()
+    .replace(/[-T:.Z]/g, "")
+    .slice(0, 14);
+  let productId = phonePart + timestamp;
+  productId = productId.slice(-16);
+
+  // ✅ Convert cart items into history entries
+  const newHistoryItems = cartItems.map((item) => ({
+    id: Date.now() + Math.random(),
+    title: item.title,
+    description: item.description,
+    price: item.price,
+    serviceImage:
+      item.serviceImage ||
+      "https://via.placeholder.com/80x80.png?text=Service",
+    bookingDate: item.bookingDate || "Not selected",
+    purchasedOn: new Date().toISOString().split("T")[0],
+    status: "processing",
+    statusColor: "blue",
+    productId,
+  }));
+
+  // ✅ Print details
+  console.log("===== Checkout Details =====");
+  console.log("User Details:", userDetails);
+  console.log("Product ID:", productId);
+  console.log("Cart Items:", cartItems);
+  console.log("History Items:", newHistoryItems);
+  console.log("============================");
+
+  // Add to history
+  newHistoryItems.forEach((historyItem) => {
+    dispatch(addToHistory(historyItem));
+  });
+
+  // Clear cart & close sidebar
+  dispatch(clearCart());
+  dispatch(closeCart());
+
+  alert("✅ Checkout successful! Your services have been added to history.");
+};
+
+
 
   return (
     <div

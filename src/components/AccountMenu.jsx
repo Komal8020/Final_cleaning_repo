@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { useSelector } from "react-redux";
-import { selectUser, selectUserHistory } from "../store/userSlice";
+import { useSelector, useDispatch } from "react-redux";
+import { selectUser, selectUserHistory, setUser } from "../store/userSlice"; // ✅ import setUser
 
 const AccountMenu = () => {
   const [open, setOpen] = useState(false);
@@ -8,6 +8,7 @@ const AccountMenu = () => {
 
   const user = useSelector(selectUser);
   const history = useSelector(selectUserHistory);
+  const dispatch = useDispatch();
 
   // First letter for account icon
   const firstLetter = user?.username
@@ -24,6 +25,16 @@ const AccountMenu = () => {
       left: rect.right - 384, // popup aligns with icon's right edge (w-96 = 384px)
     });
     setOpen(!open);
+  };
+
+  // ✅ Logout handler
+  const handleLogout = () => {
+    dispatch(setUser(null)); // clears logged-in user from Redux
+    setOpen(false);          // close the dropdown
+    console.log("User logged out");
+
+    // Optional: redirect to login page
+    // window.location.href = "/login";
   };
 
   return (
@@ -77,48 +88,56 @@ const AccountMenu = () => {
                   </div>
 
                   {/* Content */}
-<div className="flex-grow space-y-1">
-  <h3 className="font-semibold text-gray-800">{item.title}</h3>
-  <p className="text-sm text-gray-500">{item.description}</p>
+                  <div className="flex-grow space-y-1">
+                    <h3 className="font-semibold text-gray-800">{item.title}</h3>
+                    <p className="text-sm text-gray-500">{item.description}</p>
 
-  {/* Dates row (moved below title/desc) */}
-  <div className="flex flex-wrap gap-2 mt-1">
-    <span className="inline-block text-xs font-medium px-2 py-1 rounded-md bg-gray-100 text-gray-700">
-      Booked On: <span className="font-semibold">{item.purchasedOn}</span>
-    </span>
-    <span className="inline-block text-xs font-medium px-2 py-1 rounded-md bg-orange-100 text-orange-700">
-      Booking For:{" "}
-      <span className="font-semibold">
-        {item.bookingDate || "Not selected"}
-      </span>
-    </span>
-  </div>
+                    {/* Dates row */}
+                    <div className="flex flex-wrap gap-2 mt-1">
+                      <span className="inline-block text-xs font-medium px-2 py-1 rounded-md bg-gray-100 text-gray-700">
+                        Booked On: <span className="font-semibold">{item.purchasedOn}</span>
+                      </span>
+                      <span className="inline-block text-xs font-medium px-2 py-1 rounded-md bg-orange-100 text-orange-700">
+                        Booking For:{" "}
+                        <span className="font-semibold">
+                          {item.bookingDate || "Not selected"}
+                        </span>
+                      </span>
+                    </div>
 
-  {/* Status + Price in same line */}
-  <div className="flex justify-between items-center mt-2">
-    <span
-      className={`inline-block text-xs font-semibold px-2 py-1 rounded-full ${
-        item.statusColor === "blue"
-          ? "bg-blue-100 text-blue-700"
-          : item.statusColor === "green"
-          ? "bg-green-100 text-green-700"
-          : "bg-gray-100 text-gray-600"
-      }`}
-    >
-      Status: {item.status}
-    </span>
-    <div className="text-sm font-bold text-gray-900">₹{item.price}</div>
-  </div>
-</div>
-
-
-</div>
+                    {/* Status + Price in same line */}
+                    <div className="flex justify-between items-center mt-2">
+                      <span
+                        className={`inline-block text-xs font-semibold px-2 py-1 rounded-full ${
+                          item.statusColor === "blue"
+                            ? "bg-blue-100 text-blue-700"
+                            : item.statusColor === "green"
+                            ? "bg-green-100 text-green-700"
+                            : "bg-gray-100 text-gray-600"
+                        }`}
+                      >
+                        Status: {item.status}
+                      </span>
+                      <div className="text-sm font-bold text-gray-900">₹{item.price}</div>
+                    </div>
+                  </div>
+                </div>
               ))
             ) : (
               <div className="text-center text-gray-500 py-6">
                 No purchase history found.
               </div>
             )}
+          </div>
+
+          {/* ✅ Logout Button */}
+          <div className="p-3 border-t bg-gray-50 sticky bottom-0">
+            <button
+              onClick={handleLogout}
+              className="w-full py-2 bg-red-500 text-white font-semibold rounded-md hover:bg-red-600"
+            >
+              Logout
+            </button>
           </div>
         </div>
       )}
