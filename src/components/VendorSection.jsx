@@ -135,7 +135,7 @@ const VendorSection = ({ vendor }) => {
         {servicesToRender.map((service) => (
           <div key={service.id} className="service-card-slider">
             {/* The ServiceCard now receives the full service object as a prop */}
-            <ServiceCard service={service} />
+            <ServiceCard service={service} vendor={vendor}/>
           </div>
         ))}
       </div>

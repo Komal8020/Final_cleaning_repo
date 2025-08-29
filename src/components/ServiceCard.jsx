@@ -10,14 +10,21 @@ const ServiceDetailPopup = ({ service, onClose }) => {
   const dispatch = useDispatch();
 
   const handleAddToCart = () => {
-    const userData = JSON.parse(localStorage.getItem("userData"));
-    if (!userData) {
-      dispatch(setAuthPopupOpen(true));
-    } else {
-      dispatch(addItem(service));
-      console.log("✅ Added to cart:", service);
-    }
-  };
+  const userData = JSON.parse(localStorage.getItem("userData"));
+  if (!userData) {
+    dispatch(setAuthPopupOpen(true));
+  } else {
+   dispatch(addItem({
+   ...service,
+   vendorId: vendor.vendorId,
+   vendorName: vendor.vendorName,
+   vendorLocation: vendor.location,
+   vendorImage: vendor.vendorImage,
+ }));
+    console.log("✅ Added to cart:", service);
+  }
+};
+
 
   if (!service) return null;
 
@@ -144,7 +151,7 @@ const PriceTag = ({ price, originalPrice }) => (
 
 
 
-const ServiceCard = ({ service }) => {
+const ServiceCard = ({ service,vendor }) => {
   const dispatch = useDispatch();
   const isAuthenticated = useSelector(selectIsAuthenticated);
 
@@ -175,14 +182,25 @@ const ServiceCard = ({ service }) => {
   };
 
   // Confirm from booking popup → now add to cart with the selected date
-  const handleConfirmBooking = (selectedDate) => {
-    dispatch(addItem({ ...service, bookingDate: selectedDate }));
+    const handleConfirmBooking = (selectedDate) => {
+   dispatch(addItem({
+     ...service,
+     bookingDate: selectedDate,
+     vendorId: vendor.vendorId,
+     vendorName: vendor.vendorName,
+     vendorLocation: vendor.location,
+     vendorImage: vendor.vendorImage,
+   }));
+    
     console.log("✅ Added to cart with booking date:", {
       ...service,
       bookingDate: selectedDate,
+     vendorName: vendor.vendorName
     });
     setIsBookingPopupOpen(false);
   };
+
+
 
   const handleViewDetails = () => setIsPopupOpen(true);
   const handleCloseDetails = () => setIsPopupOpen(false);
